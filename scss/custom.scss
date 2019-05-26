@@ -1,0 +1,9 @@
+$dark-orange: #db5843;
+$orange: #f29253;
+$dark-blue: #00526b;
+
+$primary:       $dark-orange;
+$secondary:     $orange;
+$info:          $dark-blue;
+
+@import "../vendor/twbs/bootstrap/scss/bootstrap";
