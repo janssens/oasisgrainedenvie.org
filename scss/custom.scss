@@ -6,4 +6,9 @@ $primary:       $dark-orange;
 $secondary:     $orange;
 $info:          $dark-blue;
 
+$theme-colors: (
+        "dark-blue": $dark-blue,
+        "dark-orange": $dark-orange
+);
+
 @import "../vendor/twbs/bootstrap/scss/bootstrap";
