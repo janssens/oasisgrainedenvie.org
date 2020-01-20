@@ -12,3 +12,7 @@ $theme-colors: (
 );
 
 @import "../vendor/twbs/bootstrap/scss/bootstrap";
+
+a.text-info{
+  -webkit-appearance: none;
+}
